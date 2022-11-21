@@ -1,0 +1,172 @@
+round	pond	cage	counts	area	consumed	biomass	group
+1	1	Control	38	8.606457878	12	8.8	treatment
+1	1	Control	45	8.973602291	5	8.3	treatment
+1	1	Control	38	8.628773209	12	11.3	treatment
+1	1	Control	30	6.946187806	20	6.5	treatment
+1	1	Herbivory	32	7.104130623	18	11.1	treatment
+1	1	Herbivory	45	8.458012468	5	13.1	treatment
+1	1	Herbivory	43	8.683214191	7	8.9	treatment
+1	1	Herbivory	45	7.677529598	5	11.6	treatment
+1	2	Herbivory	33	7.463163252	17	9.9	treatment
+1	2	Herbivory	46	10.09490288	4	13.3	treatment
+1	2	Herbivory	38	6.508231173	12	7.9	treatment
+1	2	Herbivory	23	5.825170638	27	4.6	treatment
+1	2	Control	46	10.5157655	4	9.5	treatment
+1	2	Control	29	7.568625188	21	10	treatment
+1	2	Control	45	9.906882591	5	7	treatment
+1	2	Control	41	9.770925638	9	10.1	treatment
+1	5	Control	46	8.991349934	4	6.6	treatment
+1	5	Control	37	8.006274241	13	6.7	treatment
+1	5	Control	36	8.499248531	14	4.2	treatment
+1	5	Control	46	6.568348542	4	8.5	treatment
+1	6	Herbivory	33	7.828258864	17	7.4	treatment
+1	6	Herbivory	26	7.779749331	24	6	treatment
+1	6	Herbivory	45	8.667507635	5	10.1	treatment
+1	6	Herbivory	23	7.170146727	27	8	treatment
+1	3	Herbivory	48	9.78214336	2	10.8	treatment
+1	3	Herbivory	47	8.549859457	3	14.1	treatment
+1	3	Herbivory	41	7.730705394	9	10.4	treatment
+1	3	Herbivory	39	6.686972101	11	7.6	treatment
+1	4	Herbivory	36	7.318586533	14	8.5	treatment
+1	4	Herbivory	39	8.08538952	11	8.5	treatment
+1	4	Herbivory	32	5.88113807	18	9	treatment
+1	4	Herbivory	42	7.591515305	8	4.1	treatment
+1	5	Herbivory	48	8.120121863	2	8.4	treatment
+1	5	Herbivory	43	8.646122975	7	11.2	treatment
+1	5	Herbivory	44	8.613027346	6	9.4	treatment
+1	6	Control	23	7.191663205	27	10.8	treatment
+1	6	Control	27	7.777092275	23	7.1	treatment
+1	6	Control	27	7.87306046	23	5	treatment
+1	6	Control	46	9.784977301	4	7.9	treatment
+1	8	Herbivory	43	8.107749689	7	12.1	treatment
+1	8	Herbivory	29	5.88036374	21	9.9	treatment
+1	8	Herbivory	37	7.313542266	13	12.4	treatment
+1	8	Herbivory	40	7.171191136	10	12.1	treatment
+1	8	Control	45	9.148114552	5	8.8	treatment
+1	8	Control	28	6.488922319	22	5.5	treatment
+1	8	Control	33	7.87106286	17	11.6	treatment
+1	8	Control	44	9.385240259	6	10	treatment
+1	3	Control	42	9.292044571	8	9.1	treatment
+1	3	Control	15	5.705676062	35	2.1	treatment
+1	3	Control	22	7.251572327	28	4.7	treatment
+1	3	Control	13	5.273412404	37	2.2	treatment
+1	4	Control	40	8.220687824	10	7.1	treatment
+1	4	Control	27	7.167796836	23	5.5	treatment
+1	4	Control	32	7.710267706	18	5.3	treatment
+1	7	Control	36	7.896679422	14	5.3	treatment
+1	7	Control	23	6.186380901	27	10.7	treatment
+1	7	Control	45	9.930725143	5	9.5	treatment
+1	7	Control	34	9.887872819	16	6.7	treatment
+1	10	Control	34	8.933654425	16	6.2	treatment
+1	10	Control	42	9.213733207	8	8.1	treatment
+1	10	Control	37	8.168630752	13	7.5	treatment
+1	10	Control	32	8.573090178	18	5.6	treatment
+1	7	Herbivory	39	8.108301264	11	16.2	treatment
+1	7	Herbivory	46	8.198798471	4	10.8	treatment
+1	7	Herbivory	45	9.394391741	5	10.2	treatment
+1	7	Herbivory	48	9.601824524	2	12.7	treatment
+1	10	Herbivory	47	8.768649194	3	9.7	treatment
+1	10	Herbivory	40	7.349184596	10	14.4	treatment
+1	10	Herbivory	49	9.434764427	1	13.2	treatment
+1	10	Herbivory	49	8.942864529	1	11.8	treatment
+1	9	Herbivory	47	8.153525819	3	9.2	treatment
+1	9	Herbivory	42	7.819380266	8	14.6	treatment
+1	9	Herbivory	43	7.409372475	7	12	treatment
+1	9	Herbivory	39	6.829936388	11	11.2	treatment
+1	9	Control	31	6.993041632	19	11	treatment
+1	9	Control	41	9.963794352	9	9.8	treatment
+2	4	Herbivory	37	8.215149073	13	9.2	treatment
+2	4	Herbivory	40	8.086359772	10	9.8	treatment
+2	4	Herbivory	42	7.762750238	8	10.6	treatment
+2	4	Control	34	7.752277764	16	5.5	treatment
+2	3	Herbivory	43	9.771628421	7	10.5	treatment
+2	3	Herbivory	43	7.200169944	7	10.6	treatment
+2	3	Herbivory	45	8.523262559	5	11.6	treatment
+2	3	Herbivory	41	8.531941493	9	7.4	treatment
+2	7	Control	16	6.718156028	34	3.5	treatment
+2	7	Control	35	8.9416	15	6.2	treatment
+2	10	Control	48	10.02717791	2	9.7	treatment
+2	1	Herbivory	27	7.294530673	23	7.7	treatment
+2	1	Herbivory	22	6.530804542	28	7.8	treatment
+2	1	Herbivory	34	6.311059611	16	8.7	treatment
+2	1	Herbivory	43	8.710191476	7	12.4	treatment
+2	3	Control	38	9.653691434	12	11.2	treatment
+2	3	Control	34	8.472311496	16	7.2	treatment
+2	3	Control	19	6.759769539	31	5.6	treatment
+2	6	Herbivory	44	10.60361357	6	15.2	treatment
+2	6	Herbivory	27	7.939492437	23	17.4	treatment
+2	6	Herbivory	33	8.589482314	17	11.2	treatment
+2	7	Control	27	7.802617937	23	6.3	treatment
+2	7	Control	23	7.009496075	27	8.8	treatment
+2	9	Control	33	7.77154139	17	8.3	treatment
+2	9	Control	8	3.825382932	42	3	treatment
+2	9	Herbivory	45	8.018911882	5	13	treatment
+2	10	Herbivory	39	7.479832297	11	12	treatment
+2	10	Herbivory	38	8.259253841	12	14.2	treatment
+2	10	Herbivory	43	8.889447959	7	12.9	treatment
+2	8	Control	20	5.743410514	30	6.4	treatment
+2	8	Control	21	6.360406091	29	9.1	treatment
+2	8	Control	41	8.736834341	9	4.9	treatment
+2	8	Control	41	8.72933314	9	10.2	treatment
+2	2	Herbivory	26	6.498805182	24	6.5	treatment
+2	2	Herbivory	40	9.427506324	10	11.6	treatment
+2	2	Herbivory	42	8.549530761	8	10.6	treatment
+2	2	Herbivory	40	8.579070339	10	10.9	treatment
+2	8	Control	41	8.670092791	9	11	treatment
+2	7	Herbivory	35	7.091365054	15	13.6	treatment
+2	7	Herbivory	39	7.84607819	11	11.7	treatment
+2	7	Herbivory	42	8.31273131	8	10.5	treatment
+2	7	Herbivory	41	8.509083979	9	10.4	treatment
+2	9	Herbivory	44	8.209082179	6	10.6	treatment
+2	9	Herbivory	42	8.697869214	8	10.6	treatment
+2	10	Herbivory	45	8.537294202	5	10.2	treatment
+2	2	Control	39	10.01010344	11	8.9	treatment
+2	2	Control	28	7.913793103	22	7.2	treatment
+2	2	Control	18	5.056618508	32	6	treatment
+2	2	Control	19	6.069426062	31	4.8	treatment
+2	5	Control	34	8.695634379	16	3	treatment
+2	5	Control	19	5.494797371	31	10.2	treatment
+2	5	Control	34	8.176729025	16	5.9	treatment
+2	5	Herbivory	35	7.032390887	15	8.1	treatment
+2	5	Herbivory	37	7.239115315	13	9.7	treatment
+2	5	Herbivory	44	8.024880383	6	8.3	treatment
+2	5	Herbivory	42	7.749125168	8	10.1	treatment
+2	9	Control	41	10.42777615	9	9.8	treatment
+2	9	Control	35	9.104697227	15	9.9	treatment
+2	10	Control	37	9.021382949	13	10.5	treatment
+2	10	Control	37	8.609249966	13	11.1	treatment
+2	8	Herbivory	39	7.970694864	11	14.5	treatment
+2	8	Herbivory	45	6.17619708	5	13.9	treatment
+2	8	Herbivory	42	8.052388512	8	17.4	treatment
+2	8	Herbivory	44	9.080604904	6	13.1	treatment
+2	1	Control	39	9.357925853	11	9.5	treatment
+2	1	Control	15	5.636267107	35	10.5	treatment
+2	1	Control	18	5.327331031	32	4	treatment
+2	1	Control	37	7.41050415	13	4.5	treatment
+2	4	Control	20	6.972798949	30	7.8	treatment
+2	4	Control	32	7.654893398	18	5	treatment
+2	4	Control	39	9.892694064	11	10.8	treatment
+2	4	Herbivory	41	7.055454214	9	10.2	treatment
+2	6	Control	19	6.710893009	31	5.1	treatment
+2	6	Control	32	8.446589447	18	7.5	treatment
+2	6	Control	19	6.400248756	31	4.7	treatment
+2	6	Control	22	6.925411025	28	7.5	treatment
+reference	1	Herbivory	45	8.215657509		11.6	reference
+reference	9	Herbivory	43	7.176085281		10.5	reference
+reference	1	Control	45	9.886398655		12.1	reference
+reference	4	Herbivory	37	7.261907993		11.5	reference
+reference	4	Control	49	8.329258127		9.6	reference
+reference	8	Herbivory	44	7.909811948		14.6	reference
+reference	3	Herbivory	42	8.402555911		11.5	reference
+reference	5	Herbivory	42	8.249198159		13.7	reference
+reference	9	Control	45	9.413745893		10.3	reference
+reference	2	Control	45	9.791913747		13.2	reference
+reference	10	Herbivory	48	7.791527462		14.3	reference
+reference	7	Herbivory	45	7.228385669		12.2	reference
+reference	6	Herbivory	43	7.122880178		10	reference
+reference	3	Control	43	8.848085632		10.7	reference
+reference	2	Herbivory	43	7.711714246		11.9	reference
+reference	8	Control	47	8.906463772		10.7	reference
+reference	5	Control	43	9.817892699		10.4	reference
+reference	6	Control	43	9.042456092		12.7	reference
+reference	7	Control	44	8.57185426		10.3	reference
